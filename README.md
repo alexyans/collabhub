@@ -20,7 +20,7 @@ ___
 ##Git & GitHub related
 [Pro Git](https://progit.org/) -- an excellent read (don't let the size intimidate you, most chapters are optional)
 
-[Markdown cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##Annotated sources
 [jQuery](http://robflaherty.github.io/jquery-annotated-source/)
