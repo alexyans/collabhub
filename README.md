@@ -16,7 +16,9 @@ ___
 
 #Resources
 
-##GitHub related
+##Git & GitHub related
+[Pro Git](https://progit.org/) -- an excellent read (don't let the size intimidate you, most chapters are optional)
+
 [Markdown cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 ##Annotated sources
