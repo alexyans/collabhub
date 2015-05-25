@@ -1,5 +1,6 @@
 # collabhub
 CollabHub's entry point. General talk, group coordination, guidelines and useful resources.
+Make sure you're watching this repo, so you get notifications.
 
 Open an issue to address:
   - problems or questions
